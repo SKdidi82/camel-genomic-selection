@@ -1,0 +1,12 @@
+.Rhistory
+.RData
+.Rproj.user
+figures
+tables
+.pdf
+.tiff
+.png
+.xlsx
+.csv
+!pedigree_demo.csv
+.DS_Store
